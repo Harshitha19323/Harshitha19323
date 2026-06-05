@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Harshitha%20Pulipakala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Integrated%20M.Tech%20AI%20Student%20%7C%20VIT%20Bhopal&descAlignY=55&descSize=14)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Harshitha+%F0%9F%91%8B;AI+%2B+ML+Student+%7C+M.Tech+@+VIT+Bhopal;Exploring+Data+Analysis+%26+Machine+Learning;Python+%7C+Jupyter+%7C+Java+%7C+Generative+AI;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Harshitha+%F0%9F%91%8B;AI+%2B+ML+Student+%7C+M.Tech+@+VIT+Bhopal;Built+Agentic+Research+Engine+%F0%9F%94%AC;Built+AI+Code+Reviewer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Exploring+Data+Analysis+%26+Machine+Learning;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshitha19323&style=flat-square&color=EC4899&label=Profile+Views) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/Harshitha19323?style=flat-square&color=EC4899)](https://github.com/Harshitha19323)
 
@@ -16,10 +16,10 @@
 Name:         Harshitha Pulipakala
 Education:    Integrated M.Tech – Artificial Intelligence (Ongoing)
 Institution:  Vellore Institute of Technology, Bhopal
-Focus:        Data Analysis & Machine Learning
+Focus:        Data Analysis, Machine Learning & Agentic AI
 Repositories: 21+ projects on GitHub
-Stack:        Python · Java · Jupyter Notebook · Generative AI
-Currently:    Exploring ML concepts, AI pipelines & data-driven projects
+Stack:        Python · Java · Jupyter Notebook · LangChain · Generative AI
+Currently:    Building AI pipelines, agentic systems & intelligent tools
 ```
 
 ---
@@ -27,6 +27,17 @@ Currently:    Exploring ML concepts, AI pipelines & data-driven projects
 ### 🚀 Featured Projects
 
 <div align="center">
+
+> ⭐ Flagship AI Projects
+
+<a href="https://github.com/Harshitha19323/Agentic-research-engine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitha19323&repo=Agentic-research-engine&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899" />
+</a>
+<a href="https://github.com/Harshitha19323/MY_CODE_REVIEWER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitha19323&repo=MY_CODE_REVIEWER&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899" />
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/Harshitha19323/projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshitha19323&repo=projects&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899" />
@@ -83,11 +94,12 @@ Currently:    Exploring ML concepts, AI pipelines & data-driven projects
 
 | Project | Description | Tech |
 |---|---|---|
-| **projects** – ML & AI Experiments | Collection of ML notebooks including stock analysis (VST.py) and a chatbot implementation | Python, Jupyter, NLP |
+| 🔬 **Agentic-research-engine** – AI Research Agent | Autonomous multi-agent pipeline that searches, reasons, and synthesizes research end-to-end | Python, Jupyter, LLMs, Agentic AI |
+| 🧑‍💻 **MY_CODE_REVIEWER** – AI Code Review Tool | Web-based AI tool that analyzes code quality, detects bugs, and gives improvement suggestions | HTML, CSS, JS, AI Integration |
+| **projects** – ML & AI Experiments | Collection of ML notebooks including stock analysis and chatbot implementation | Python, Jupyter, NLP |
 | **python** – Python Learning & Practice | Comprehensive Python exercises, algorithms, and data science explorations | Python, Jupyter Notebook |
 | **java** – Java DSA & Programming | Core Java programs covering data structures and object-oriented programming | Java |
 | **datasets** – Data Repository | Curated datasets used across ML experiments and analysis projects | CSV, Data Science |
-| **Generative AI Roadmap** – Learning Path | Structured roadmap for learning Generative AI concepts and tools in 2024–25 | Gen AI, LLMs |
 
 ---
 
